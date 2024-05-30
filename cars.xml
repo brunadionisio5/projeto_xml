@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dados>
+    <marca>
+        <nome>AUDI</nome>
+        <nacionalidade>Alemanha</nacionalidade>
+        <caro>Audi R8 V10 Plus - R$ 1.100.000,00</caro>
+        <img>img/audi.jpg</img>
+    </marca>
+
+    <marca>
+        <nome>MERCEDES</nome>
+        <nacionalidade>Alemanha</nacionalidade>
+        <caro>Mercedes-AMG One - R$ 15.000.000,00</caro>
+        <img>img/mercedes.png</img>
+    </marca>
+
+    <marca>
+        <nome>BMW</nome>
+        <nacionalidade>Alemanha</nacionalidade>
+        <caro>BMW Série 7 - R$ 750.000,00</caro>
+        <img>img/bmw.png</img>
+    </marca>
+    
+    <marca>
+        <nome>FERRARI</nome>
+        <nacionalidade>Italia</nacionalidade>
+        <caro>Ferrari LaFerrari Aperta - R$ 20.000.000,00</caro>
+        <img>img/ferrari.jpg</img>
+    </marca>
+    
+    <marca>
+        <nome>FIAT</nome>
+        <nacionalidade>Italia</nacionalidade>
+        <caro>Fiat 124 Spider Abarth - R$ 200.000,00</caro>
+        <img>img/fiat.jpg</img>
+    </marca>
+    
+    <marca>
+        <nome>PAGANI</nome>
+        <nacionalidade>Italia</nacionalidade>
+        <caro>Pagani Huayra BC Roadster - R$ 25.000.000,00</caro>
+        <img>img/pagani.jpg</img>
+    </marca>
+
+    <marca>
+        <nome>VOLKSWAGEN</nome>
+        <nacionalidade>Alemanha</nacionalidade>
+        <caro>Volkswagen Phideon - R$ 700.000,00</caro>
+        <img>img/volkswagen.jpeg</img>
+    </marca>
+
+    <marca>
+        <nome>CHEVROLET</nome>
+        <nacionalidade>EUA</nacionalidade>
+        <caro>Corvette ZR1 - R$ 900.000,00</caro>
+        <img>img/chevrolet.png</img>
+    </marca>
+
+    <marca>
+        <nome>KOENIGSEGG</nome>
+        <nacionalidade>Suécia</nacionalidade>
+        <caro>Koenigsegg Jesko - R$ 25.000.000,00</caro>
+        <img>img/koenigsegg.png</img>
+    </marca>
+
+    <marca>
+        <nome>PORSCHE</nome>
+        <nacionalidade>Alemanha</nacionalidade>
+        <caro>Porsche 911 GT2 RS - R$ 1.500.000,00</caro>
+        <img>img/porsche.jpg</img>
+    </marca>
+
+</dados>
